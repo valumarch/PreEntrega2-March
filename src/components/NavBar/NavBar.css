@@ -1,0 +1,28 @@
+header{
+    background-color: #885053;
+    color: #fff;
+}
+
+.tituloNav{
+    font-size: 30px;
+    text-transform: uppercase;
+    padding: 1rem;
+    padding-left: 2rem;
+}
+
+ul{
+    margin-left: 1.5rem; 
+}
+
+li{
+    margin-right: 0.7rem;
+    cursor: pointer;
+}
+
+.linkNav{
+    text-decoration: none;
+    color: #fff;
+}
+.linkNav:hover{
+    color:#D9BFC0 !important;
+}

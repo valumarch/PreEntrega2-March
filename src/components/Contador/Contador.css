@@ -1,0 +1,34 @@
+.botones{
+    text-align: center;
+}
+
+button{
+    background-color: #fff;
+    color: #fff;
+    border: solid 1px #885053;
+    color: #885053;
+}
+
+button:hover{
+    color: #fff;
+    background-color: #885053;
+}
+.contador{
+    text-align: center;
+}
+.boton-contador{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin: 1rem;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.boton-agregar{
+    padding: 0.7rem;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+
